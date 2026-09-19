@@ -5,7 +5,21 @@
   <link href="https://division-of-history.click/" rel="alternate"/>
   <link href="https://division-of-history.click/atom.xml" rel="self"/>
   <title>Division-Now</title>
-  <updated>2026-08-30T06:46:07.028Z</updated>
+  <updated>2026-09-19T14:01:13.898Z</updated>
+  <entry>
+    <category term="life-retrospect" scheme="https://division-of-history.click/tags/life-retrospect/"/>
+    <content>
+      <![CDATA[<p>&emsp;&emsp;这几天还是决定出来住了，行动之前一直犹豫：我真的能管住自己吗？理想的状态是，白天全力以赴，到点就睡，睡醒就起，对梦香绝不惦念。<br>&emsp;&emsp;我最恐怖的对象就是自己，在一个相对稳定的环境下，混不好，100%是自己给自己拖下水的，自己是自己的最大敌人、最大的利益损害者。我还知道，我对人类原初性混乱的无端惊厥，很大程度与骨子里吃、睡的不规律的荒淫有关。直到开学脑子里还在滚着文化大革命的事，哪怕改革开放给当今的烙印比那时更深。<br>&emsp;&emsp;我到底在害怕什么呢？<br>&emsp;&emsp;世界是由末人搞乱的——这个“末人”不同于尼采的末人，批判人类不能全然一体地批判。因为贫穷、短视，腥热的腐臭却也逐渐被整饬的隔墙所冷却。埋藏着恨意的引线，我可以在越高处越憎恨这些，也可以在空无的寰宇里用麻木以坚定目标，对人类各种各样腐臭的个性报以冷漠。<br>&emsp;&emsp;这是我的恨，我以后再讲这些。<br>&emsp;&emsp;到具体的生活中去。一段时间内对于生活的面目，细看定是丑陋的。以足够快的速度离开地球，丑陋才能化为无法捕捉的残影，摆脱由无数尸体、深海、泥浆和腐殖质组成的双重羞耻的重力。如果我决定忘记昨天，对低谷释怀，我想就成功了一半。在如今，我可以搭出自己的灵魂之所，这东西仿佛婚恋门槛，二十多岁随便找，三十多岁不嫁却由于沉没成本不能放低标准一般，但不得不向现实低头，这成了唯一的选择。<br>&emsp;&emsp;希望已长出沟通的能力去与真诚的造物沟通。<br>&emsp;&emsp;你可以追杀过往，但不要把恨意扩大化。<br>你能去主动戒除的：吃、睡。<br>你执行用以抵抗上面的：创造、尊敬上帝。</p>]]>
+    </content>
+    <id>https://division-of-history.click/2026/09/19/%E6%97%A5%E6%9A%AE%E7%90%90%E8%AE%B0/</id>
+    <link href="https://division-of-history.click/2026/09/19/%E6%97%A5%E6%9A%AE%E7%90%90%E8%AE%B0/"/>
+    <published>2026-09-19T12:28:05.000Z</published>
+    <summary>
+      <![CDATA[<p>&emsp;&emsp;这几天还是决定出来住了，行动之前一直犹豫：我真的能管住自己吗？理想的状态是，白天全力以赴，到点就睡，睡醒就起，对梦香绝不惦念。<br>&emsp;&emsp;我最恐怖的对象就是自己，在一个相对稳定的环境下，混不好，100%是自己给自己拖下水的，自己是]]>
+    </summary>
+    <title>日暮琐记</title>
+    <updated>2026-09-19T14:01:13.898Z</updated>
+  </entry>
   <entry>
     <content>
       <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]>
